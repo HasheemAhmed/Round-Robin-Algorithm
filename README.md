@@ -33,4 +33,4 @@ Author:
 Hasheem Ahmed
 
 Contact:
-For any inquiries or suggestions, please contact the author at email@example.com.
+For any inquiries or suggestions, please contact the author at hasheemasif@gmail.com
